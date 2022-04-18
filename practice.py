@@ -17,3 +17,4 @@ print (l)
 
 bool = varA.isalpha()
 print (bool)
+
